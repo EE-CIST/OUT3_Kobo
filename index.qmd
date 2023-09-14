@@ -22,12 +22,12 @@ format:
 editor: visual
 
 title-slide-attributes:
-  data-background-image: "/images/Plan de travail 1.png"
+  data-background-image: "/images/Plan_de_travail_1.png"
   data-background-size: contain
   data-background-opacity: "0.5"
 ---
 
-## **Sommaire** {.smaller}
+## **Sommaire** {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 ::: columns
 ::: {.column width="50%"}
@@ -58,9 +58,9 @@ title-slide-attributes:
 :::
 :::
 
-# KoBo ?
+# KoBo ? {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
-## Objectifs initiaux {.smaller}
+## Objectifs initiaux {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 **KoBo est une organisation internationale à but non lucratif. Elle héberge et maintient KoboToolbox, un outil de collecte de données adapté aux contextes difficiles. KoboToolbox est extrêment populaire, cet outil est utilisé par plus de 14 000 organisations à travers le monde. KoboToolbox a été fondée en 2005 par Phuong Pham et Patrick Vinck, aujourd'hui professeurs à l'Université Harvard T.H. École Chan de santé publique.**
 
@@ -70,7 +70,7 @@ Il est développé par la ***Harvard Humantarian Initiative*** pour une utilisat
 ![](images/partenaires.jpg){width="65%"}
 :::
 
-## Public cible {.smaller}
+## Public cible {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 \
 
@@ -97,7 +97,7 @@ Il est développé par la ***Harvard Humantarian Initiative*** pour une utilisat
 :::
 :::
 
-## Pourquoi utiliser KoBo ? {.smaller}
+## Pourquoi utiliser KoBo ? {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 ::: columns
 \
@@ -126,18 +126,18 @@ Il est développé par la ***Harvard Humantarian Initiative*** pour une utilisat
 :::
 :::
 
-## KoboToolbox & KoboCollect {.smaller}
+## KoboToolbox & KoboCollect {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 \
 
 **KoBo se compose :**
 
 -   d'une **plateforme en ligne** : [**KoboToolbox**](https://kf.KoBotoolBox.org/){target="_blank"}\
--   d'une **application de collecte** de données : [**KoboCollect**](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=fr&gl=US){target="_blank"} (ou [Enketo](https://enketo.org/){target="_blank"} et [GIC Collect](https://apps.apple.com/kh/app/gic-collect/id1485932698?l=fr){target="_blank"} pour IOS)
+-   d'une **application de collecte** de données : [**KoboCollect**](https://play.google.com/store/apps/details?id=org.koboc.collect.android&hl=fr&gl=US){target="_blank"} (ou [**Enketo**](https://enketo.org/){target="_blank"} et [**GIC Collect**](https://apps.apple.com/kh/app/gic-collect/id1485932698?l=fr){target="_blank"} pour IOS)
 
 ![](images/Kobocollect.jpg)
 
-## Respect de la RGPD {.smaller}
+## Respect de la RGPD {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 ::: center
 ![](images/rgpd.jpeg){width="50%"}
@@ -156,7 +156,7 @@ Les données collectées et envoyées sur [la plateforme KobotToolBox mise à di
 ![](images/server.jpg){width="70%"}
 :::
 
-## Instance privée {.smaller}
+## Instance privée {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 **KoboToolbox est un outil Open source. Pour s'assurer d'avoir la maîtrise totale de vos données, il est possible d'installer son instance KoboToolbox sur son propre serveur.** Cela permet d'avoir son instance personnalisée avec des configurations de sécurité améliorées.
 
@@ -182,9 +182,9 @@ Bien que la mise en place et la maintenance nécessitent des compétences en inf
 :::
 :::
 
-# Cas d'usage
+# Cas d'usage {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
-## Diverses formes d'utilisation possibles {.smaller}
+## Diverses formes d'utilisation possibles {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 \
 
@@ -213,7 +213,7 @@ Bien que la mise en place et la maintenance nécessitent des compétences en inf
 :::
 :::
 
-## Exemples personnels appliqués
+## Exemples personnels appliqués {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 Dans le domaine de la géographie et de la géomatique
 
@@ -298,9 +298,9 @@ Voir le [formulaire](https://ee.kobotoolbox.org/x/94cwK1ga){target="_blank"}
 <!-- -   **Relevés et notes** personnels de terrain -->
 <!-- ::: -->
 
-# Prise en main
+# Prise en main {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
-## Deux outils pour une enquête
+## Deux outils pour une enquête {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 \
 
@@ -339,7 +339,7 @@ Voir le [formulaire](https://ee.kobotoolbox.org/x/94cwK1ga){target="_blank"}
 -   Envoi maitrisé des réponses sur le serveur KoBotoolBox
 :::
 
-## 1. Création de compte Kobotoolbox
+## 1. Création de compte Kobotoolbox {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 Pour utiliser KoBotoolBox, commencez par **créer un compte : [http://www.KoBotoolBox.org](http://www.KoBotoolBox.org){target="_blank"}**
 
@@ -347,19 +347,19 @@ Cliquez sur ***Create an account***.
 
 ![](images/create.jpg)
 
-## 1. Création de compte
+## 1. Création de compte {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 **Renseignez les informations** demandées :
 
 ![](images/champs.jpg)
 
-## 1. Création de compte
+## 1. Création de compte {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 Vous recevrez un email qui vous permettra d'**activer votre compte**.
 
 ![](images/activate.jpg)
 
-## 2. Création du formulaire
+## 2. Création du formulaire {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 \
 
@@ -383,7 +383,7 @@ B. Renseignez les informations générales
 :::
 :::
 
-## 3. Ajout d'une question
+## 3. Ajout d'une question {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 **Cliquez sur le signe + pour ajouter votre première question :**
 
@@ -393,7 +393,7 @@ B. Renseignez les informations générales
 
 ![](images/7a.jpg)
 
-## 3. Ajout d'une question
+## 3. Ajout d'une question {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 **De nombreux [types de question](https://support.KoBotoolBox.org/question_types.html){target="_blank"} disponibles :**
 
@@ -403,19 +403,19 @@ B. Renseignez les informations générales
 Voir un [formulaire exemple](https://enke.to/x/widgets){target="_blank"}
 :::
 
-## 4. Création du questionnaire via XLS form
+## 4. Création du questionnaire via XLS form {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 ```{=html}
 <iframe width="990" height="580" src="https://docs.google.com/spreadsheets/d/1JYH0ca-piUKepoq-DXjVl5qLTUVM18ZY/edit#gid=716438668" title="xlsform"></iframe>
 ```
-## 5. Déploiement du formulaire (page web)
+## 5. Déploiement du formulaire (page web) {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 Une fois le questionaire saisi et validé, **il doit être déployé pour activer la phase de collecte**.\
 **Un lien sera automatiquement créé.**
 
 ![](images/deploy.jpg) ![](images/link.jpg)
 
-## 6. Déploiement sur smartphone
+## 6. Déploiement sur smartphone {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 Possibilité de télécharger le questionnaire dans l'application koboCollect, Enketo ou GIC collect.
 
@@ -433,7 +433,7 @@ Possibilité de télécharger le questionnaire dans l'application koboCollect, E
 :::
 :::
 
-## 7. Administration de la collecte
+## 7. Administration de la collecte {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 -   **Multi-administrateurs**
 -   **Supervision des collecteurs**
@@ -443,19 +443,19 @@ Possibilité de télécharger le questionnaire dans l'application koboCollect, E
 ![](images/admin.jpg) ![](images/edit.jpg)
 :::
 
-## 8. Exploration des données collectées
+## 8. Exploration des données collectées {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 Des **outils d'exploration et de visualisation** des données collectées.
 
 ![](images/viz.jpg) ![](images/graphique.jpg)
 
-## 9. Export des données
+## 9. Export des données {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 **Plusieurs formats d'export** disponibles.
 
 ![](images/format%20d'export.jpg)
 
-## Conclusion
+## Conclusion {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 ::: {.bigbis style="margin-top:35px;"}
 **Limites :**
@@ -480,7 +480,7 @@ Des **outils d'exploration et de visualisation** des données collectées.
 -   Collecte rapide et de manière fiable des données sur **Android**, **iOS** et de nombreux autres appareils, **en ligne ou hors ligne**, avec une logique de renvoi complexe.
 :::
 
-## Ressources utiles
+## Ressources utiles {.smaller background-image="/images/Plan_de_travail_2.png" background-size="90%" }
 
 \
 
