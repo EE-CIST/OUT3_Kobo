@@ -2,7 +2,7 @@
 title: "Un outil libre de collecte de données pour les SHS"
 author: "Labaly TOURE & Hugues PECOUT"
 title-slide-attributes:
-  data-background-image: "/images/Plan_de_travail_1.png"
+  data-background-image: "../images/Plan_de_travail_1.png"
   data-background-size: contain
   data-background-opacity: "0.5"
 img: images/kobo.png
