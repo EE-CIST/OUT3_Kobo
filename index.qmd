@@ -2,7 +2,7 @@
 title: "Un outil libre de collecte de données pour les SHS"
 author: "Labaly TOURE & Hugues PECOUT"
 title-slide-attributes:
-  data-background-image: ../images/Plan_de_travail_1.png
+  data-background-image: images/Plan_de_travail_1.png
   data-background-size: contain
   data-background-opacity: "0.5"
 img: images/kobo.png
@@ -13,7 +13,6 @@ format:
       - title-slide.html
     theme: [dark, theme_rouge.scss]
     logo: images/eeCist_bandeau.png
-    # footer: "École d'été internationale du CIST -  Méthodes et outils des sciences des territoires"
     scrollable: TRUE
     smaller: TRUE
     overview: TRUE
